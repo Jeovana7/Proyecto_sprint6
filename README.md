@@ -5,5 +5,6 @@ Sin embargo, lo mas importante es practicar como subir o mostrar información en
 Para este caso usamos Render mediante GitHub.
 El proyecto nos pide crear varios archivos creados mediante un intérprete de Python como VS Code.
 Finalmente, el proyecto nos permite usar y practicar con las diferentes aplicaciones.
-Link de Render : https://dashboard.render.com/web/srv-crcmlvl2ng1s73cv1oig/deploys/dep-crcmn3jv2p9s73cir86g
+Link de Render : https://proyecto-sprint6-5d1u.onrender.com
 Me parecio un sprint "complicado" aún tengo dudas...
+En mi GitHub estaba privado y lo modifiqué a público
